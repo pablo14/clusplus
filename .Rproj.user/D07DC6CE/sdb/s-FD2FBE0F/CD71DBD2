@@ -1,0 +1,17 @@
+{
+    "contents" : "plot_clus_coord(kmeans(mtcars,3), mtcars)\n",
+    "created" : 1431098434264.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "885098652",
+    "id" : "CD71DBD2",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
