@@ -27,7 +27,7 @@ plot_clus_coord <- function(cluster_model, data)
     geom_path(alpha = 0.9) +
     geom_point() + 
     xlab("Variables") +
-    ylab("Incidence percentage") + 
+    ylab("Scaled average") + 
     ggtitle("Coordinate Plot") +
     theme(axis.text.x=element_text(angle = 90, vjust = 0.5), plot.title=element_text(size=14,face="bold"))
   
